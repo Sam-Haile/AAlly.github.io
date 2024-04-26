@@ -1,6 +1,6 @@
 # Appreciation Ally
 
-##Overview
+## Overview
 
 "Appreciation Ally" is a mobile application designed to improve mental health through positive reinforcement and gratitude exercises. This app draws inspiration from psychological research and previous applications like "Psych Me Up." The objective is to create an engaging, interactive game that encourages users to focus on positive imagery, promoting a sense of gratitude and well-being.
 
